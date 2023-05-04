@@ -1,6 +1,9 @@
-### Ellertone Ongoki
+### Ellertone Ongoki wave.gif
 
-Software and Electronics Engineer From Kenya
+Electrical and Software Engineer From Kenya
+
+I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
+
 
 
 <!--
