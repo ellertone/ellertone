@@ -1,8 +1,10 @@
 # Ellertone Ongoki
-**Electrical and Software Engineer From Kenya**
+**Electrical and Software Engineer - Kenya**
 
 ⚡ I have a passion for system architecture and design, UI and UX design.
+
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
+
 🔭 I’m currently working on API integration and React.
 
 ## 🔧 Tools & Technologies
