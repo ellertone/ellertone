@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ellertone Ongoki
+
+Software and Electronics Engineer From Kenya
+
 
 <!--
 **just-ellertone/just-ellertone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
