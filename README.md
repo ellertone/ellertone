@@ -1,9 +1,12 @@
-### Ellertone Ongoki wave.gif
+### Ellertone Ongoki 
 
 Electrical and Software Engineer From Kenya
 
-I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
+⚡ I have a passion for system architecture and design, UI and UX design.
+👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
+🔭 I’m currently working on API integration and React Native.
 
+## 🔧 Tools & Technologies
 
 
 <!--
