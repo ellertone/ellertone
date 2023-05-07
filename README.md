@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on API integration and React.
+🔭 I’m currently working on API integration.
 
 ## 🔧 Tools & Technologies
 
@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Linux - Git-   C-  Python - HTML - CSS - JavaScript - Vue
+Linux - Git --   C --  Python - HTML - CSS - JavaScript 
           
 ## Languages Stats
 
