@@ -5,7 +5,7 @@
 
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on API integration.
+🔭 I’m currently working on VueJs.
 
 ## 🔧 Tools & Technologies
 
