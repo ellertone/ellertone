@@ -1,25 +1,35 @@
 # Ellertone Ongoki
 **Electrical and Software Engineer - Kenya**
 
-⚡ I have a passion for system architecture and design, UI and UX design.
+⚡ I have a passion for system architecture and design, and Machine learning.
 
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on VueJs.
+🔭 I’m currently working on API integration with Express.
+
+💼 Professional Summary
+- Backend developer aimed towards building scalable and robust web applications.
+- Proficient in javascript and python using frameworks such as django and express. Working with MongoDB.
 
 ## 🔧 Tools & Technologies
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+
+
 <br />
 <br />
 
-Linux - Git --   C --  Python - HTML - CSS - JavaScript 
+
+Linux - Git - C - Python - HTML - CSS - JavaScript - Node.js - Express- MongoDB
           
 ## Languages Stats
 
