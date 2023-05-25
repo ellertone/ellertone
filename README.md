@@ -1,5 +1,5 @@
 # Ellertone Ongoki
-**Electrical and Software Engineer - Kenya**
+**Electrical and Systems Engineer**
 
 ⚡ I have a passion for system architecture and design, and Machine learning.
 
