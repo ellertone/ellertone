@@ -1,15 +1,16 @@
 # Ellertone Ongoki
-**Electrical and Systems Engineer**
+**Computer and Software Engineer**
 
-⚡ I have a passion for system architecture and design, and Machine learning.
+⚡ I have a passion for system architecture and design, and UI/UX design.
 
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on API integration with Express.
+🔭 I’m currently working on Cross Platform app design with Flutter.
 
 💼 Professional Summary
-- Backend developer aimed towards building scalable and robust web applications.
-- Proficient in javascript and python using frameworks such as django and express. Working with MongoDB.
+- Full-stack developer aimed towards building scalable and robust web applications.
+- Proficient in javascript using express framework.
+- Preference for working with the MERN stack
 
 ## 🔧 Tools & Technologies
 
@@ -23,13 +24,14 @@
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
 <br />
 <br />
 
 
-Linux - Git - C - Python - HTML - CSS - JavaScript - Node.js - Express- MongoDB
+Linux - Git - C - Python - HTML - CSS - JavaScript - Node.js - Express- MongoDB -Reactjs
           
 ## Languages Stats
 
