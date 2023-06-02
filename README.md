@@ -24,14 +24,13 @@
 <img align="left" alt="Node.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 
 <br />
 <br />
 
 
-Linux - Git - C - Python - HTML - CSS - JavaScript - Node.js - Express- MongoDB -Reactjs
+Linux - Git - C - Python - HTML -CSS-JavaScript-Node.js-Express-MongoDB 
           
 ## Languages Stats
 
