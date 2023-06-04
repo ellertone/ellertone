@@ -5,12 +5,11 @@
 
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on Cross Platform app design with Flutter.
+🔭 I’m currently working on Machine Learning.
 
 💼 Professional Summary
 - Full-stack developer aimed towards building scalable and robust web applications.
 - Proficient in javascript using express framework.
-- Preference for working with the MERN stack
 
 ## 🔧 Tools & Technologies
 
