@@ -1,15 +1,14 @@
 # Ellertone Ongoki
 **Computer and Software Engineer**
 
-⚡ I have a passion for system architecture and design, and UI/UX design.
-
 👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
 
-🔭 I’m currently working on Machine Learning.
+⚡ I have a passion for system architecture and design, and UI/UX design.
+
+🔭 I’m currently working on Microservices.
 
 💼 Professional Summary
 - Full-stack developer aimed towards building scalable and robust web applications.
-- Proficient in javascript using express framework.
 
 ## 🔧 Tools & Technologies
 
