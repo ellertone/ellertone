@@ -26,7 +26,7 @@
 <br />
 
 
-Linux - Git - C - Python - HTML-CSS-JavaScript-Node.js- Java - Docker
+Linux - Git - C - Python - HTML-CSS-JavaScript - Node.js - Java - Docker
           
 ## Languages Stats
 
