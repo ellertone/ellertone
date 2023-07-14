@@ -1,11 +1,9 @@
 # Ellertone Ongoki
 **Computer and Software Engineer**
 
-👯 I’m looking to collaborate on projects that are centered around solving real world problems or innovative solutions.
+⚡ I have a passion for system architecture and designs centered around solving real world problems or innovative solutions.
 
-⚡ I have a passion for system architecture and design, and UI/UX design.
-
-🔭 I’m currently working on Microservices with Java.
+🔭 Currently focused on Microservices with Java.
 
 💼 Professional Summary
 - Full-stack developer aimed towards building scalable and robust web applications.
