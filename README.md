@@ -5,7 +5,7 @@
 
 ⚡ I have a passion for system architecture and design, and UI/UX design.
 
-🔭 I’m currently working on Microservices.
+🔭 I’m currently working on Microservices with Java.
 
 💼 Professional Summary
 - Full-stack developer aimed towards building scalable and robust web applications.
@@ -30,7 +30,7 @@ Linux - Git - C - Python - HTML-CSS-JavaScript - Node.js - Java - Docker
           
 ## Languages Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=just-ellertone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellertone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **just-ellertone/just-ellertone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
