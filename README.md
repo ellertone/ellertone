@@ -3,7 +3,7 @@
 
 ⚡ I have a passion for system architecture and designs centered around solving real world problems or innovative solutions.
 
-💼 Professional Summary - Full-stack developer aimed towards building scalable and robust web applications.
+💼 Backend-developer aimed towards building scalable and robust web applications.
 
 ---
 
