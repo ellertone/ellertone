@@ -3,8 +3,6 @@
 
 ⚡ I have a passion for system architecture and designs centered around solving real world problems or innovative solutions.
 
-💼 Backend-developer aimed towards building scalable and robust web applications.
-
 ---
 
 ## 🔧 Tools & Technologies
