@@ -1,4 +1,4 @@
-# Ellertone Ongoki
+# Ellertone Manasses
 **Computer and Software Engineer**
 
 ⚡ I have a passion for system architecture and designs centered around solving real world problems or innovative solutions.
